@@ -1,10 +1,10 @@
-.. _introduction
 
-เริ่มต้น
+
+การดาวน์โหลดและติดตั้ง iThesis Add-ins
 ============
 .. image:: /images/test.jpeg
-   :height: 500
-   :width: 500
+   :height: 110
+   :width: 110
 
 
 การทำงาน
